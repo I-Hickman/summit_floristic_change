@@ -1,0 +1,11 @@
+## Plant community shifts in alpine summit vegetation are driven by changes in the abundance of resident species rather than by species turnover
+
+Aims: Alpine species living at the extreme edge of their tolerances (i.e. mountain summits) have little ability to track their climatic niche upslope and are predicted to be very sensitive to changes in climate. Indeed, global warming is expected to create more habitat in the nival zones, increasing alpine endemic richness. However, more frequent heatwaves and a longer growing season will increase abiotic stress, as well as competition from the expansion and upslope migration of native and exotic invasive, more warm-adapted species, ultimately increasing the possibility of local species extinction. Here, we aim to understand the responses of alpine vegetation in summit areas to global change drivers over 18 years. 
+
+Location: Alpine summits in the Australian Alpine Bioregion 
+
+Methods: This study used a revisitation approach on 14 Australian alpine summits where permanent plots had been established between 2004 and 2012. Vegetation resurveys were completed in 2012, 2017, and 2022. Over the last two decades, summits have also been affected by wildfires, which introduces another dimension to the research. 
+
+Results: We found that alpine summits are experiencing directional floristic composition shifts attributed to changes in dominant species within the local species pool, specifically shrub and graminoid species. Fire was the key driver of vegetation change on alpine summits due to successional processes. There were also elevation-dependent changes in cover and composition, with the most pronounced changes in composition at higher elevations. Interestingly, there was little evidence of new species migrating upslope to summits, suggesting time-lag processes may limit species' ability to disperse, migrate, and establish on summits. 
+
+Conclusions: Closed alpine vegetation, such as summits in this study, may have some resilience to change by limiting the establishment of novel species. However, further vegetation changes seem imminent without effective climate action, and this will be further compounded by threats such as invasive species, wildfire, and recreation impacts.
